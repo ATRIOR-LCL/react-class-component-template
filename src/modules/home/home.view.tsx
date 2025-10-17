@@ -2,7 +2,7 @@
 import React from 'react';
 import Demo from '../../components/demo';
 import { Link } from 'react-router-dom';
-import type { HomeState } from '../../commen/interface/home';
+import type { HomeState } from '../../common/interface/home';
 
 export default class HomeView extends React.Component<{}, HomeState> {
     constructor(props: {}) {

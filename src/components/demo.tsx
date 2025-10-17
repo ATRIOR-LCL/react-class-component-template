@@ -1,5 +1,5 @@
 import React from 'react';
-import type { DemoProps } from '../commen/interface/demo';
+import type { DemoProps } from '../common/interface/demo';
 
 export default class Demo extends React.Component<DemoProps> {
   constructor(props: DemoProps) {
