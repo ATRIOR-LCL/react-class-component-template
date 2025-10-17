@@ -1,5 +1,4 @@
 import React from 'react';
-import './index.less';
 import ReactSVG from './assets/react.svg';
 import { RouterProvider } from 'react-router-dom';
 import { router } from './routes';

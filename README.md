@@ -16,7 +16,7 @@ react-class-component-template
    ├─ main.tsx  # 程序入口文件
    ├─ utils     # 全局工具函数
    ├─ index.less # 全局样式配置
-   ├─ commen
+   ├─ common
    │  ├─ interface # 组件数据结构接口
    │  └─ modules   # DTO
    ├─ components   # 公共组件
