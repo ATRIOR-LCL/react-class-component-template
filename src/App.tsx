@@ -9,7 +9,7 @@ export default class App extends React.Component {
     return (
       <div className="app">
         <img src={ReactSVG} alt="React Logo" />
-        <h1>Hello, React!</h1>
+        <h1>Hello, React! 😎</h1>
         <RouterProvider router={router} />
       </div>
     );
